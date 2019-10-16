@@ -1,2 +1,2 @@
 # Magento-EE
-Magento 1.x Enterprise Edition Base
+Magento 1.x Enterprise Edition Base Installation.
